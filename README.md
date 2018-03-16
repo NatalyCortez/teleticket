@@ -17,7 +17,7 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 
 *[Trello](https://trello.com/b/TndEhm3Y/teleticket)
 
-![Trello](https://raw.githubusercontent.com/adayc/reto-buses/nat-branch/assets/images/trello.png)
+![Trello]()
 
 ## PROCESO 
 
@@ -29,11 +29,14 @@ Identificamos las necesidades de los usuarios y buscamos data e inspiración par
 
 _**a.ENCUESTA:**
 
-*[Encuesta]()
+![Encuesta]()
 
 _**b.AFFINITY MAPPING:**_
 
-*[AFFINITY MAPPING]()
+![AFFINITY MAPPING]()
+![AFFINITY MAPPING]()
+![AFFINITY MAPPING]()
+![AFFINITY MAPPING]()
 
 **Temas encontrados:**
 
