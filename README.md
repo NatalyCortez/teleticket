@@ -22,7 +22,7 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 
 ## PROCESO 
 
-*[Proceso]()
+![Proceso](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/fases.png)
 
 ### 1.DESCUBRIMIENTO E INVESTIGACIÓN
 
@@ -30,16 +30,33 @@ Identificamos las necesidades de los usuarios y buscamos data e inspiración par
 
 _**a.ENCUESTA:**
 
-![Encuesta]()
+![Encuesta](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/encuesta.png)
 
 _**b.AFFINITY MAPPING:**_
+Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar una buena cantidad de información para poder lograr nuestro objetivo.
 
-![AFFINITY MAPPING]()
-![AFFINITY MAPPING]()
-![AFFINITY MAPPING]()
-![AFFINITY MAPPING]()
+![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/20180316_104222.jpg)
+![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/20180316_105535.jpg)
+![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/affinity.png)
+![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/affinity2.png)
 
 **Temas encontrados:**
+
+* Orden de información
+
+* Velocidad de la página
+
+* Diseño visual
+
+* Compra web
+
+* Sugerencias
+
+* Eventos
+
+* Preferencias/servicios
+
+* Otros
 
 _**c.PRESENTACIÓN DEL PROBLEMA:**_
 
