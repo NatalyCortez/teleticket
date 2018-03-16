@@ -58,9 +58,28 @@ Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar u
 
 * Otros
 
-_**c.PRESENTACIÓN DEL PROBLEMA:**_
+**Observaciones:**
+
+* A pesar de que no todos los usuarios tienen conocimientos en lo que al diseño estético se refiere;presentan cierta disconformidad con el diseño visual de la página.
+
+* Hay áreas que ni siquiera usan.El menú inferior no se visualiza del todo,y la mayoria no llega a hacer scroll en la página.
+
+* Indican que el proceso de compra es algo extenso.
+
+**_c.PRESENTACIÓN DEL PROBLEMA:**_
+
+Después de analizar respuestas ,realizar observaciones generales y realizar el **_Affinity Maping_**,se llegó a la conclusión de que el foco de el rediseño de la página de **_Teleticket_** debia ser mejorar el diseño visual,garantizar una velocidad de carga óptima.
 
 _**d.USER PERSON:**_
+
+Daniel Contreras
+
+* **Edad:** 26 años
+
+* **Ocupación:** Ingeniero industial
+
+* **Frase:** "Nada se compara a la experiencia de rockear con tus ídolos de toda la vida"
+
 
 ### 2.SÍNTESIS Y DEFINICIÓN
 Buscamos tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP
