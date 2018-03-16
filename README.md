@@ -4,7 +4,8 @@ _**Teleticket**_ es el una empresa con más de veinte años de experiencia en la
 Actualmente cuentga con 51 puntos de venta ubicados en las  tiendas Wong y Metro, donde los clientes pueden adquirir entradas a los principales espectáculos que se realizan en la ciudad de Lima y a nivel nacional. También pueden adquirir pasajes de transporte terrestre en nuestros puntos de venta. 
 
 Teleticket pone a disposición de sus clientes una página informativa y de venta con todos los eventos que promocionan.
-
+![Teleticket](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/pagina.png)
+![Teleticket](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/teleticket.png)
 ## RETO:
 
 Nos enfocaremos en el rediseño de la página informativa de _**Teleticket**_.
@@ -17,7 +18,7 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 
 *[Trello](https://trello.com/b/TndEhm3Y/teleticket)
 
-![Trello]()
+![Trello](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/trello.png)
 
 ## PROCESO 
 
