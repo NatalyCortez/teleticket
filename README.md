@@ -1,6 +1,6 @@
 # TELETICKET
 
-_**Teleticket**_ es el una empresa con más de veinte años de experiencia en la distribución y venta de entradas para eventos de diferentes actividades, ya sea musicales, culturales, teatrales, etc.
+**_Teleticket_** es el una empresa con más de veinte años de experiencia en la distribución y venta de entradas para eventos de diferentes actividades, ya sea musicales, culturales, teatrales, etc.
 Actualmente cuentga con 51 puntos de venta ubicados en las  tiendas Wong y Metro, donde los clientes pueden adquirir entradas a los principales espectáculos que se realizan en la ciudad de Lima y a nivel nacional. También pueden adquirir pasajes de transporte terrestre en nuestros puntos de venta. 
 
 Teleticket pone a disposición de sus clientes una página informativa y de venta con todos los eventos que promocionan.
@@ -8,7 +8,7 @@ Teleticket pone a disposición de sus clientes una página informativa y de vent
 ![Teleticket](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/teleticket.png)
 ## RETO:
 
-Nos enfocaremos en el rediseño de la página informativa de _**Teleticket**_.
+Nos enfocaremos en el rediseño de la página informativa de **_Teleticket_**.
 
 ## OBJETIVO:
 
@@ -28,11 +28,11 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 
 Identificamos las necesidades de los usuarios y buscamos data e inspiración para rediseñar la página.
 
-_**a.ENCUESTA:**
-
+**A.ENCUESTA:**
+*[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfpNYZht4C-9NlCN89Ms6THdDPbvvx5IM8aGO7ybvoSBIAflA/viewform)
 ![Encuesta](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/encuesta.png)
 
-_**b.AFFINITY MAPPING:**_
+**B.AFFINITY MAPPING:**
 Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar una buena cantidad de información para poder lograr nuestro objetivo.
 
 ![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/20180316_104222.jpg)
@@ -66,11 +66,11 @@ Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar u
 
 * Indican que el proceso de compra es algo extenso.
 
-**_c.PRESENTACIÓN DEL PROBLEMA:**_
+**C.PRESENTACIÓN DEL PROBLEMA:**
 
 Después de analizar respuestas ,realizar observaciones generales y realizar el **_Affinity Maping_**,se llegó a la conclusión de que el foco de el rediseño de la página de **_Teleticket_** debia ser mejorar el diseño visual,garantizar una velocidad de carga óptima.
 
-_**d.USER PERSON:**_
+**D.USER PERSON:**
 
 Daniel Contreras
 
@@ -82,4 +82,5 @@ Daniel Contreras
 
 
 ### 2.SÍNTESIS Y DEFINICIÓN
+
 Buscamos tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP
