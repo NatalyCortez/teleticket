@@ -29,7 +29,9 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 Identificamos las necesidades de los usuarios y buscamos data e inspiración para rediseñar la página.
 
 **A.ENCUESTA:**
-*[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfpNYZht4C-9NlCN89Ms6THdDPbvvx5IM8aGO7ybvoSBIAflA/viewform)
+* [Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfpNYZht4C-9NlCN89Ms6THdDPbvvx5IM8aGO7ybvoSBIAflA/viewform)
+
+
 ![Encuesta](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/encuesta.png)
 
 **B.AFFINITY MAPPING:**
