@@ -28,13 +28,18 @@ Brindar una mejor experiencia al usuario al momento de navegar por la página pa
 
 Identificamos las necesidades de los usuarios y buscamos data e inspiración para rediseñar la página.
 
-**A.ENCUESTA:**
+**ENCUESTA:**
 * [Encuesta](https://docs.google.com/forms/d/e/1FAIpQLSfpNYZht4C-9NlCN89Ms6THdDPbvvx5IM8aGO7ybvoSBIAflA/viewform)
 
 
 ![Encuesta](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/encuesta.png)
 
-**B.AFFINITY MAPPING:**
+
+### 2.SÍNTESIS Y DEFINICIÓN
+
+Buscamos tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP
+
+**A.AFFINITY MAPPING:**
 Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar una buena cantidad de información para poder lograr nuestro objetivo.
 
 ![AFFINITY MAPPING](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/20180316_104222.jpg)
@@ -68,21 +73,11 @@ Recolectando las respuestas a las preguntas abiertas formuladas,se pudo hallar u
 
 * Indican que el proceso de compra es algo extenso.
 
-**C.PRESENTACIÓN DEL PROBLEMA:**
+**B.PRESENTACIÓN DEL PROBLEMA:**
 
 Después de analizar respuestas ,realizar observaciones generales y realizar el **_Affinity Maping_**,se llegó a la conclusión de que el foco de el rediseño de la página de **_Teleticket_** debia ser mejorar el diseño visual,garantizar una velocidad de carga óptima.
 
-**D.USER PERSON:**
+**C.USER PERSON:**
 
-Daniel Contreras
+![USER PERSON]()
 
-* **Edad:** 26 años
-
-* **Ocupación:** Ingeniero industial
-
-* **Frase:** "Nada se compara a la experiencia de rockear con tus ídolos de toda la vida"
-
-
-### 2.SÍNTESIS Y DEFINICIÓN
-
-Buscamos tendencias e insights valiosos para el desarrollo del producto, y entendemos los deseos y necesidades del público al que estará dirigido nuestro producto. Finalmente, definimos los componentes/funcionalidades que tendrá nuestro MVP
