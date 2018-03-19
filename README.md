@@ -79,5 +79,4 @@ Después de analizar respuestas ,realizar observaciones generales y realizar el 
 
 **C.USER PERSON:**
 
-![USER PERSON]()
-
+![USER PERSON](https://raw.githubusercontent.com/NatalyCortez/teleticket/master/assets/images/userpersona.png)
